@@ -9,7 +9,7 @@ const Home = () => {
             </Head>
 
             <main>
-                <h1>Next Boilerplate</h1>
+                <p>Next Boilerplate Body</p>
             </main>
         </div>
     );
