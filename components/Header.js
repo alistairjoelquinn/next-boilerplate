@@ -12,7 +12,7 @@ const Header = () => {
         <HeaderStyles>
             <h1>Project Header</h1>
         </HeaderStyles>
-    )
-}
+    );
+};
 
-export default Header
+export default Header;
