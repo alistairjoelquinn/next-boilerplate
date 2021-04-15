@@ -1,6 +1,10 @@
+import Page from "../components/Page";
+
 const App = ({ Component, pageProps }) => {
     return (
-        <Component {...pageProps} />
+        <Page>
+            <Component {...pageProps} />
+        </Page>
     );
 };
 
