@@ -1,11 +1,11 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 const Home = () => {
     return (
         <div>
             <Head>
                 <title>Alistair Quinn Next Boilerplate</title>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/static/favicon.ico" />
             </Head>
 
             <main>
